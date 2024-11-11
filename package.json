@@ -1,0 +1,13 @@
+{
+    "name": "prime-number-api",
+    "version": "1.0.0",
+    "description": "API that returns prime numbers up to a given maximum",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+}
+  
